@@ -4,7 +4,7 @@
     "users": [
       {
         "email": "vinay.agarwal.1977@gmail.com",
-        "licenseExpiry": "22-APR-2023"
+        "licenseExpiry": "22-APR-2022"
       }
     ]
   }
