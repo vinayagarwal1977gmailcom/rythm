@@ -5,6 +5,10 @@
       {
         "email": "vinay.agarwal.1977@gmail.com",
         "licenseExpiry": "22-APR-2050"
+      },
+      {
+        "email": "photos.backup.1977.1977@gmail.com",
+        "licenseExpiry": "22-APR-2050"
       }
     ]
   }
